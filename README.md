@@ -1,6 +1,6 @@
 # PKU Tensorflow Notes
 
-本 repo 用于存放北大曹健的 MOOC《人工智能实践：Tensorflow笔记》相关的讲义及配套的示例代码。
+本 repo 用于存放北大曹健的 MOOC[《人工智能实践：Tensorflow笔记》](http://www.icourse163.org/course/PKU-1002536002)相关的讲义及配套的示例代码。
 
 ## 版权声明
 MOOC 的视频、课件、代码均归曹健老师的 MOOC 教学组所有。
@@ -27,7 +27,7 @@ MOOC 官方配套代码
 
 TODO ([咕咕咕](https://github.com/int-and-his-friends/gugu-tutorial)):
 
-- [x] 打包 Ubuntu 虚拟机环境
+- [x] 打包 Ubuntu 虚拟机环境  
   参见[OVE Release Note](./OVF-ReleaseNote.md)
 - [ ] 打包 docker 环境
 - [ ] 更新 .md 版"助教笔记"
