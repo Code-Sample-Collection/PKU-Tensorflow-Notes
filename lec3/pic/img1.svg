@@ -1,0 +1,30 @@
+<svg id="图层_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 131">
+  <style>
+    .st0{fill:#fff;stroke:#000;stroke-miterlimit:10}.st1{enable-background:new}.st2{font-family:&apos;ArialMT&apos;}.st3{font-size:18px}.st4{font-size:10px}.st6{fill:none;stroke:#000;stroke-miterlimit:10}
+  </style>
+  <circle class="st0" cx="26" cy="27.7" r="20"/>
+  <text transform="translate(15.797 34.5)" class="st1">
+    <tspan x="0" y="0" class="st2 st3">X</tspan><tspan x="12" y="0" class="st2 st4">1</tspan>
+  </text>
+  <circle class="st0" cx="26" cy="104.6" r="20"/>
+  <text transform="translate(15.797 111.326)" class="st1">
+    <tspan x="0" y="0" class="st2 st3">X</tspan><tspan x="12" y="0" class="st2 st4">2</tspan>
+  </text>
+  <circle class="st0" cx="130" cy="65.2" r="20"/>
+  <text transform="translate(125.5 69.958)" class="st2 st3">
+    y
+  </text>
+  <path d="M46 27.7l65.8 29.1" fill="none"/>
+  <path class="st6" d="M46 27.7l63.3 27.9"/>
+  <path d="M102.6 56.1v-1l6.6.5-4.8-4.6.7-.7 6.7 6.5-9.2-.7z"/>
+  <path class="st6" d="M150 65.2h31.5"/>
+  <path d="M178.7 68.9l1.6-3.7-1.6-3.7 8.8 3.7-8.8 3.7z"/>
+  <path class="st6" d="M46 104.6l63.6-29.2"/>
+  <path d="M105.5 80.7l-.7-.7 4.7-4.6-6.5.5-.1-1 9.3-.7-6.7 6.5z"/>
+  <text transform="translate(74.5 34.5)" class="st1">
+    <tspan x="0" y="0" class="st2 st3">w</tspan><tspan x="13" y="0" class="st2 st4">1</tspan>
+  </text>
+  <text transform="translate(74.5 104.626)" class="st1">
+    <tspan x="0" y="0" class="st2 st3">w</tspan><tspan x="13" y="0" class="st2 st4">2</tspan>
+  </text>
+</svg>
