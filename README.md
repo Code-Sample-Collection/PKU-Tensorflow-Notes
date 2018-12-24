@@ -19,7 +19,7 @@ Tensorflow 笔记
 
 - [x] [第一讲 概述](./lec1/TA's-Tensorflow-notes-1.md)
 - [x] [第二讲 Python 语法串讲](./lec2/TA's-Tensorflow-notes-2.md)
-- [x] [第三讲 搭建神经网络](./lec2/TA's-Tensorflow-notes-2.md)
+- [x] [第三讲 搭建神经网络](./lec3/TA's-Tensorflow-notes-3.md)
 - [ ] [第四讲 神经网络优化](./lec4/TA's-Tensorflow-notes-4.md)
 - [ ] [第五讲 MNIST 数据集输出手写数字识别准确率](./lec5/TA's-Tensorflow-notes-5.md)
 - [ ] [第六讲 输入手写数字输出识别结果](./lec6/TA's-Tensorflow-notes-6.md)
