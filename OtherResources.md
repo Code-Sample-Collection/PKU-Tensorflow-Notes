@@ -135,3 +135,11 @@ MOOC 的讲义有电子版的，所有搜到的很多文章都是复制粘贴将
 ----
 
 
+## Vim
+
+- [yangyangwithgnu/use_vim_as_ide: 所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)  
+  教你把 vim 配置的像一个现代的 IDE；没必要用上全部的插件与选项，各取所需就好。
+
+## 反向传播推导
+
+- [一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇） - 人工智能 - 掘金](https://juejin.im/entry/5ac056dc6fb9a028de44d620)
